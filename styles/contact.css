@@ -1,0 +1,26 @@
+footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: hsl(80, 14%, 96%);
+    padding: 10px;
+    font-weight: 500;
+    font-size: 1.3rem;
+}
+
+
+.btn {
+    color: white;
+    background-color: black;
+    transition: transform 0.3s ease-in-out;
+}
+
+.btn:hover {
+    background-color: black;
+    color: white;
+    transform: translateY(-10px);
+}
