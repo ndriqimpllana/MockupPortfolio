@@ -33,7 +33,7 @@ function getGreeting() {
 
 //Thank you message upon inquiry 
 function showThankYouMessage() {
-  return alert("Thank you for your Inquiry!");
+  alert("Thank you for your Inquiry!");
 }
 
 
