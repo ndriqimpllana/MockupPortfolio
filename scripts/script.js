@@ -31,10 +31,14 @@ function getGreeting() {
 }
 
 
-
+//Thank you message upon inquiry 
+function showThankYouMessage() {
+  alert("Thank you for your Inquiry!");
+}
 
 
 
 console.log(validateEmail("user@user.com")); 
 console.log(`Total: $${calculateTotalPrice(cartTotal)}`); 
 console.log(getGreeting());
+console.log(showThankYouMessage);
