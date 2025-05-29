@@ -1,4 +1,4 @@
-# 
+## Frameworks & Intro to JavaScript - Recreate your favorite website.
 
 For this assignement i decided to do a mockup of a portofolio/store for my photography work.
 
