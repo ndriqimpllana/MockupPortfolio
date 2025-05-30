@@ -1,10 +1,15 @@
 ## Frameworks & Intro to JavaScript - Recreate your favorite website.
 
+
 For this assignement i decided to do a mockup of a portofolio/store for my photography work.
+
 
 ## Website Overview
 
-This website is a mock-up of a future portfolio for my photography work. It showcases the use of bootstrap components to ensure compatibility and for a better layout throughout the site. It also shows use of semantic HTML for better accessibility. 
+
+This website is a mock-up of a future portfolio for my photography work. It showcases the use of bootstrap 
+components to ensure compatibility and for a better layout throughout the site. 
+It also shows use of semantic HTML for better accessibility. 
 
 Added JavaScript functions representing future added features in the page.
 
@@ -20,6 +25,7 @@ Used CSS to make the site more appealing and match the theme I had in mind.
 2. **Cards** – Print sale display with prices and add to cart button
 3. **Table** – Print pricing based on size and frame
 4. **Carousel** - Showcasing some of my photography
+5. **Buttons** - Add to cart and Submit buttons
 
 
 
