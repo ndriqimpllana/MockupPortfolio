@@ -41,4 +41,4 @@ function showThankYouMessage() {
 console.log(validateEmail("user@user.com")); 
 console.log(`Total: $${calculateTotalPrice(cartTotal)}`); 
 console.log(getGreeting());
-console.log(showThankYouMessage);
+console.log(showThankYouMessage());
